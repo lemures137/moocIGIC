@@ -30,7 +30,7 @@
 "value": {"ININ":1, "CIP":2}
 },
 {"id": "MX-CDMEX",
-"value": {"CINVESTAV":5, "IMP":4, "INMEGEN":1, "IPN-ESCA":4, "IPN-ESCOM":6}
+"value": {"CINVESTAV": 5, "IMP": 4, "INMEGEN": 1, "IPN-ESCA": 4, "IPN-ESCOM": 6}
 },
   {"id": "MX-MIC",
 "value":2454
